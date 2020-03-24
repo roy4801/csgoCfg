@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/QRZPDM0.png)
 
-
+* eDPI = 800 * 2.0
 
 ## Refs
 
