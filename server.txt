@@ -1,0 +1,12 @@
+rcon_password "yourRconPassword";
+rcon game_mode 1;
+rcon game_type 0;
+rcon exec gamemode_competitive;
+rcon mp_restartgame 1;
+
+Mode 	              game_type 	game_mode
+Classic Casual	         0	             0
+Classic Competitive	 0	             1
+Arms Race 	         1	             0
+Demolition 	         1	             1
+Deathmatch	         1	             2
