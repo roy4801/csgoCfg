@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/QRZPDM0.png)
 
-* eDPI = 800 * 2.0
+* eDPI = 800 * 1.15 = 920
 
 * nades practice
    * type `exec throw` in console
