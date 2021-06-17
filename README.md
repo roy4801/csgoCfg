@@ -2,9 +2,12 @@
 
 * Crosshair
 
-![](https://i.imgur.com/QRZPDM0.png)
+	![](https://i.imgur.com/QRZPDM0.png)
 
 * eDPI = 800 * 1.15 = 920
+
+* Startup options
+	* `-novid -fullscreen -w 1920 -h 1080 -tickrate 128 +fps_max 0`
 
 * nades practice
    * type `exec throw` in console
