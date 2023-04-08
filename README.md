@@ -21,3 +21,9 @@ http://www.dodbits.com/dods/index.php/cs-go/33-cs-go-console-commands/109-intere
 
 * Tools
     * https://csgobuynds.com/buy-binds-generator.html
+
+## Notes
+
+- `key_findbinding`: Find key binding e.g. `key_findbinding alias`
+- `key_listboundkeys`: List of all bound keys and their commands/aliases
+- `unbindalljoystick`: Remove all joystick/controller binds
